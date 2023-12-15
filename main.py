@@ -1,5 +1,3 @@
-import txt
-
 with open('1.txt', 'w', encoding='utf-8') as f:
     f.write('Строка номер 1 файла номер 1\nСтрока номер 2 файла номер 1')
 
